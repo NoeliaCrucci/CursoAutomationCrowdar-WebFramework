@@ -1,0 +1,7 @@
+pages/SigInPage.class
+tests/NetflixTests.class
+business/NetflixLoginWithInvalidCredentialsBusiness.class
+pages/LoginPage.class
+business/NetflixLoginWithoutCredentialsBusiness.class
+interfaces/BusinessInterface.class
+interfaces/BusinessInterface2.class
