@@ -19,7 +19,7 @@ pipeline {
             
             steps {
 
-              sh "mvn clean package -Dmaven.test.failure.ignore=true "
+              sh "mvn clean package test"
             }
         }
    }
