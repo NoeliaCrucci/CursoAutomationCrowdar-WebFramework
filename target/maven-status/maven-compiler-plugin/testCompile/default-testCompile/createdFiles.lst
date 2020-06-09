@@ -1,5 +1,6 @@
+steps/NetflixTests.class
+runner/RunCukesTest.class
 pages/SigInPage.class
-tests/NetflixTests.class
 business/NetflixLoginWithInvalidCredentialsBusiness.class
 pages/LoginPage.class
 business/NetflixLoginWithoutCredentialsBusiness.class

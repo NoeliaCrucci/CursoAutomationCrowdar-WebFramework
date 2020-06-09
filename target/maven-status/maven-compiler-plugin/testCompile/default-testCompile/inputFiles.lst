@@ -1,7 +1,8 @@
 /home/noe/Dev/CursoAutomation/FrameworkWebCompleto/CursoAutomationCrowdar-WebFramework/src/test/java/pages/SigInPage.java
-/home/noe/Dev/CursoAutomation/FrameworkWebCompleto/CursoAutomationCrowdar-WebFramework/src/test/java/tests/NetflixTests.java
 /home/noe/Dev/CursoAutomation/FrameworkWebCompleto/CursoAutomationCrowdar-WebFramework/src/test/java/interfaces/BusinessInterface2.java
 /home/noe/Dev/CursoAutomation/FrameworkWebCompleto/CursoAutomationCrowdar-WebFramework/src/test/java/pages/LoginPage.java
+/home/noe/Dev/CursoAutomation/FrameworkWebCompleto/CursoAutomationCrowdar-WebFramework/src/test/java/runner/RunCukesTest.java
+/home/noe/Dev/CursoAutomation/FrameworkWebCompleto/CursoAutomationCrowdar-WebFramework/src/test/java/steps/NetflixTests.java
 /home/noe/Dev/CursoAutomation/FrameworkWebCompleto/CursoAutomationCrowdar-WebFramework/src/test/java/business/NetflixLoginWithInvalidCredentialsBusiness.java
 /home/noe/Dev/CursoAutomation/FrameworkWebCompleto/CursoAutomationCrowdar-WebFramework/src/test/java/interfaces/BusinessInterface.java
 /home/noe/Dev/CursoAutomation/FrameworkWebCompleto/CursoAutomationCrowdar-WebFramework/src/test/java/business/NetflixLoginWithoutCredentialsBusiness.java
